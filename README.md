@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2ee6f7bf-8b2a-421b-b977-1efc0ddb1ede" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2ee6f7bf-8b2a-421b-b977-1efc0ddb1ede" />
 
 # MDE Threat Hunting Queries
 
